@@ -17,7 +17,7 @@ public class TestDEmo {
 		list.display();
 
 		list.removeDuplicates();
-		System.out.println("after Removing duplicates : ");
+		System.out.println("after Removing duplicates from the list : ");
 		list.display();
 
 	}
