@@ -8,6 +8,8 @@ public class TestDemo {
 		System.out.println("3rd commit");
 
 		System.out.println("1st commit from VS code");
+		
+		System.out.println("4th commit change");
 
 	}
 
