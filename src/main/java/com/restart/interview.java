@@ -12,7 +12,7 @@ public class interview {
 	public static void main(String[] args) {
 
 		HashMap<String, Integer> m = new HashMap<>();
-		m.put("Chiranjivi", 700);
+		m.put("Avinash", 700);
 		m.put("balaiah", 800);
 		m.put("Venkatesh", 200);
 		m.put("nagarjuna", 500);

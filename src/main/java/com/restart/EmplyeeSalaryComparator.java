@@ -15,7 +15,7 @@ public class EmplyeeSalaryComparator implements Comparator<Employee> {
 
 	public static void main(String[] args) {
 		List<Employee> emp = new ArrayList<>();
-		emp.add(new Employee(3, "john", 50000));
+		emp.add(new Employee(3, "Avinash", 50000));
 		emp.add(new Employee(1, "Alice", 60000));
 		emp.add(new Employee(2, "Bob", 55000));
 
