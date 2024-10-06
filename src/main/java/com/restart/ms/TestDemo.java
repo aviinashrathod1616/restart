@@ -7,6 +7,8 @@ public class TestDemo {
 		
 		System.out.println("3rd commit");
 
+		System.out.println("1st commit from VS code");
+
 	}
 
 }
