@@ -4,6 +4,8 @@ public class TestDemo {
 
 	public static void main(String[] args) {
 		System.out.println("This is for the Git change");
+		
+		System.out.println("3rd commit");
 
 	}
 
