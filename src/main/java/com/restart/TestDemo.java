@@ -9,7 +9,7 @@ public class TestDemo {
 
 	        // Comparing references
 	        if (s1 == s2) {
-	            System.out.println("The output is : s1 and s2 ref are equal");
+	            System.out.println("The output is good  : s1 and s2 ref are equal");
 	        }
 
 	        // Comparing objects' contents
